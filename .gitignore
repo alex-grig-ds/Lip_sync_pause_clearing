@@ -20,5 +20,6 @@ temp*
 *.docx
 *.txt
 *.csv
-
+*.mp*
 poetry.lock
+
