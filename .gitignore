@@ -1,0 +1,24 @@
+# ---> JetBrains
+## Directory-based project format:
+.idea/
+
+# ---> Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#---> Other
+/log/
+/tmp/
+/data/
+/tests/log/
+/tests/test_data/
+
+temp*
+*.xlsx
+*.docx
+*.txt
+*.csv
+
+poetry.lock
